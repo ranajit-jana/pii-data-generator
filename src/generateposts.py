@@ -8,8 +8,8 @@ import random
 faker = Faker()
 
 template_sentences = [
-    "Hi, my name is {name}, you can reach me at {phone_number}, and I live at {address}.",
-    "I'm {name}, my phone number is {phone_number}, and my address is {address}.",
+    "Hi, all I got a new iphone , you can reach me at {phone_number}, {name}.",
+    "I'm shifting to new place today , and my address will be {address}.",
     "You can contact me at {phone_number}. My name is {name} and I live at {address}.",
     "Give me a call anytime at {phone_number}",
     "Drop me a note at {email}",
@@ -22,28 +22,18 @@ def is_empty_file(file_path):
 
 # Function to get the last used IDs from the existing CSV file
 def get_last_ids(csv_file):
-    last_comment_id = 0
     last_post_id = 0
-
     if os.path.exists(csv_file):
         with open(csv_file, mode="r", newline="", encoding="utf-8") as file:
             reader = csv.reader(file)
             next(reader, None)  # Skip the header row
             for row in reader:
-                comment_id = int(row[0])
-                post_id = int(row[2])
-                last_comment_id = max(last_comment_id, comment_id)
+                post_id = int(row[0])
                 last_post_id = max(last_post_id, post_id)
-
-    return last_comment_id, last_post_id
+    return last_post_id
 
 # Function to generate synthetic data for each field
-def generate_comment(user_id, comment_id, post_id):
-
-    global comment_id_counter
-    global post_id_counter
-
-
+def generate_comment(post_id, user_id, likes_count, comments_count, shares_count):
 
     template_sentence = random.choice(template_sentences)
     name = faker.name()
@@ -55,16 +45,18 @@ def generate_comment(user_id, comment_id, post_id):
     timestamp = faker.date_time_between(start_date="-1y", end_date="now").strftime('%Y-%m-%d %H:%M:%S')
 
     return [
-        comment_id,
-        user_id,
         post_id,
+        user_id,
         comment_content,
-        timestamp
+        timestamp,
+        likes_count,
+        comments_count,
+        shares_count
     ]
 
 # Generate comments and write to CSV file
 num_comments = 20
-csv_file = "comments.csv"
+csv_file = "posts.csv"
 
 # Check if the file exists
 file_exists = os.path.exists(csv_file)
@@ -73,19 +65,24 @@ with open(csv_file, mode="a", newline="", encoding="utf-8") as file:
     writer = csv.writer(file)
     if not file_exists or is_empty_file(csv_file):  # Check if the file is empty
         writer.writerow([
-            "comment_id",
-            "user_id",
             "post_id",
+            "user_id",
             "content",
-            "timestamp"
+            "timestamp",
+            "likes_count",
+            "comments_count",
+            "shares_count"
         ])
-    comment_id, post_id = get_last_ids(csv_file)
+
+    post_id = get_last_ids(csv_file)
+    user_id = random.randint(1, 100)  # Random user_id between 1 and 100
+    likes_count = random.randint(100, 500)  # Random user_id between 100 and 500
+    comments_count = random.randint(2, 15)  # Random user_id between 2 and 15
+    shares_count = random.randint(20, 60) # Random user_id between 20 and 60
     # Append comment data
     for _ in range(num_comments):
-        user_id = random.randint(1, 100)  # Random user_id between 1 and 100
-        comment_id += 1
         post_id += 1
-        comment_data = generate_comment(user_id, comment_id, post_id)
+        comment_data = generate_comment(post_id, user_id, likes_count, comments_count, shares_count)
         writer.writerow(comment_data)
 
 if not file_exists:
