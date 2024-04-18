@@ -2,6 +2,7 @@ import csv
 import os
 from faker import Faker
 import hashlib
+
     # ar_AA (Arabic)
     # az_AZ (Azerbaijani)
     # bg_BG (Bulgarian)
@@ -51,40 +52,22 @@ import hashlib
     # zh_CN (Chinese - China)
     # zh_TW (Chinese - Taiwan)
 # Create an instance of the Faker class
-faker = Faker()
+faker = Faker('hu_HU')
 
 # Generate synthetic data for each field
-def generate_user():
-    user_id = faker.uuid4()
-    username = faker.user_name()
-    email = faker.email()
-    # Generate a random password hash (not a real hash, for demonstration purposes only)
-    password_hash = hashlib.sha256(faker.password().encode()).hexdigest()
-    profile_picture_url = faker.image_url()
-    bio = faker.text()
-    location = faker.address()
-    registration_timestamp = faker.date_time_between(start_date="-1y", end_date="now").strftime('%Y-%m-%d %H:%M:%S')
-    phone = faker.phone_number()
-    driver_license = faker.random_number(digits=10)
-    aadhar_number = faker.random_number(digits=12)
+def generate_username():
+    first_name = faker.first_name()
+    last_name = faker.last_name()
 
     return [
-        user_id,
-        username,
-        email,
-        password_hash,
-        profile_picture_url,
-        bio,
-        location,
-        registration_timestamp,
-        phone,
-        driver_license,
-        aadhar_number
+        first_name,
+        last_name,
+
     ]
 
 # Generate user data and write to CSV file
-num_users = 10
-csv_file = "users.csv"
+num_users = 5
+csv_file = "username.csv"
 
 # Check if the file exists
 file_exists = os.path.exists(csv_file)
@@ -93,22 +76,13 @@ with open(csv_file, mode="a", newline="", encoding="utf-8") as file:
     writer = csv.writer(file)
     if not file_exists:  # Write mode, add header row
         writer.writerow([
-            "user_id",
-            "username",
-            "email",
-            "password_hash",
-            "profile_picture_url",
-            "bio",
-            "location",
-            "registration_timestamp",
-            "phone",
-            "driver_license",
-            "aadhar_number"
+            "first_name",
+            "last_name",
         ])
 
     # Append user data
     for _ in range(num_users):
-        user_data = generate_user()
+        user_data = generate_username()
         writer.writerow(user_data)
 
 if not file_exists:
