@@ -1,0 +1,10 @@
+    "Hi, my name is Eric Flores, you can reach me at 746-485-9665x5594, and I live at 7138 Emily Knoll
+Frankburgh, MP 54556. I do have an email warrenjoseph@example.com and my aadhar number is 711589949723",
+    "I'm Eric Flores, my phone number is 746-485-9665x5594, and my address is 7138 Emily Knoll
+Frankburgh, MP 54556.",
+    "You can contact me at 746-485-9665x5594. My name is Eric Flores and I live at 7138 Emily Knoll
+Frankburgh, MP 54556.",
+    "Give me a call anytime at 746-485-9665x5594",
+    "Drop me a note at warrenjoseph@example.com",
+    "I will be staying at 7138 Emily Knoll
+Frankburgh, MP 54556 during vacation"
