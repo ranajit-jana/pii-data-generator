@@ -52,7 +52,7 @@ def generate_fake_data(passeddata):
             print(start_idx , label , aadhar, type(aadhar), text)
             if start_idx != -1:
                 entities.append([start_idx, start_idx + len(str(aadhar)), label])
-
+        print("\n")
     record = [text, {"entities": entities}]
 
     return record
