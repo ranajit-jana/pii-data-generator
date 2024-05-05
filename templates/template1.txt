@@ -1,6 +1,14 @@
-    "Hi, my name is {name}, you can reach me at {phone_number}, and I live at {address}. I do have an email {email} and my aadhar number is {aadhar}",
-    "I'm {name}, my phone number is {phone_number}, and my address is {address}.",
-    "You can contact me at {phone_number}. My name is {name} and I live at {address}.",
-    "Give me a call anytime at {phone_number}",
-    "Drop me a note at {email}",
-    "I will be staying at {address} during vacation"
+Hi, my name is {name}, you can reach me at {phone_number}, and I live at {address}. I do have an email {email} and my aadhar number is {aadhar}
+I'm {name}, my phone number is {phone_number} and my address is {address}
+You can contact me at {phone_number} My name is {name} and I live at {address}
+Give me a call anytime at {phone_number}
+Drop me a note at {email}
+I will be staying at {address} during vacation
+{name} helped us in building a practical financial plan customized to our requirements with {aadhar}. 
+{name} action plan is clear and provides a disciplined approach to achieve our financial goals. reach him at {address} {phone_number} {email}
+{address} is clear and simple to find. Get started on a financial planning journey.
+{name} receive record patent approvals in FY24.
+Pre-emptive steps, better planning help meet peak power demand in April. contact {address} {phone_number} {email}
+Ugly {name} did not give up {address}
+Addressing {email} in largely qualitative {name}, without formal mathematics, the six {aadhar} discuss atoms in motion, basic {address}
+but enriched! The {address} won’t simply take you to wiki pages that explain concepts by enlisting a wall of words.
