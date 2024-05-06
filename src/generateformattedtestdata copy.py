@@ -25,34 +25,49 @@ def generate_fake_data(passeddata):
     text = str(gentext)
     # Create entities with spans
     entities = []
-    
+    start_idx = 0
     for label in labels:
         if label == "PERSON" and name in text:
-            start_idx = 0
-            start_idx = text.find(name)
-            #print(start_idx , label, type(name), text)
-            entities.append([start_idx, start_idx + len(name), label])
+            try:
+                start_idx = text.index(name, start_idx)
+            except ValueError:
+                print("Substring not found",start_idx , label, name, type(name))
+            print(start_idx , label, name, type(name), text)
+            if start_idx != -1:
+                entities.append([start_idx, start_idx + len(name), label])
         elif label == "ADDRESS" and address in text:
-            start_idx = 0
-            start_idx = text.find(address)
-            #print(start_idx , label,type(address),text)
-            entities.append([start_idx, start_idx + len(address), label])
+            try:
+                start_idx = text.index(address, start_idx)
+            except ValueError:
+                print("Substring not found",start_idx , label, address , type(address))
+            print(start_idx , label, address , type(address),text)
+            if start_idx != -1:
+                entities.append([start_idx, start_idx + len(address), label])
         elif label == "PHONE" and phone_number in text:
-            start_idx = 0          
-            start_idx = text.find(str(phone_number).strip(), start_idx)
-            #print(start_idx  , label, type(phone_number), text)
-            entities.append([start_idx, start_idx + len(str(phone_number)), label])
+            try:
+                start_idx = text.index(phone_number, start_idx)
+            except ValueError:
+                print("Substring not found",start_idx  , label, phone_number)
+            print(start_idx  , label, phone_number, type(phone_number), text)
+            if start_idx != -1:
+                entities.append([start_idx, start_idx + len(str(phone_number)), label])
         elif label == "EMAIL" and email in text:
-            start_idx = 0
-            start_idx = text.find(email, start_idx)
-            #print(start_idx  , label, type(email),text)
-            entities.append([start_idx, start_idx + len(email), label])
+            try:
+                start_idx = text.index(email, start_idx)
+            except ValueError:
+                print("Substring not found",start_idx  , label, email)
+            print(start_idx  , label, email,  type(email),text)
+            if start_idx != -1:
+                entities.append([start_idx, start_idx + len(email), label])
         elif label == "UID" and str(aadhar) in text:
-            start_idx = 0
-            start_idx = text.find(str(aadhar).strip(), start_idx)
-            #print(start_idx , label , type(aadhar), text)
-            entities.append([start_idx, start_idx + len(str(aadhar)), label])
-
+            try:
+                start_idx = text.index(str(aadhar).strip(), start_idx)
+            except ValueError:
+                print("Substring not found",start_idx , label , aadhar)
+            print(start_idx , label , aadhar, type(aadhar), text)
+            if start_idx != -1:
+                entities.append([start_idx, start_idx + len(str(aadhar)), label])
+        print("\n")
     record = [text, {"entities": entities}]
 
     return record
@@ -77,7 +92,7 @@ def main():
         with open(template_file, 'r', encoding='utf-8') as file:
             for template in file:
         # Generate Aadhar template
-               json_data = generate_fake_data(template.strip())
+               json_data = generate_fake_data(str(template).strip())
                data["annotations"].append(json_data)
 
 
