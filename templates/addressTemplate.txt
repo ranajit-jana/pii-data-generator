@@ -47,3 +47,4 @@ I will be staying at {address} during vacation
 Pre-emptive steps and better planning help meet peak power demand in April. contact {address} {phone_number} {email}
 Ugly {name} did not give up {address}
 but enriched! The {address} won’t simply take you to wiki pages that explain concepts by enlisting a wall of words.
+Let's meet for coffee in the morning at {address}.
