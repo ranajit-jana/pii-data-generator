@@ -1,3 +1,18 @@
 I live at {address}
 Meet you at {address}
 I will be staying at {address}
+Our office is located at {address}
+Let's meet at {address} for coffee.
+The party will be at {address}
+I'll see you at {address} on {date}
+I have a doctor's appointment at {address} on {date}
+I will be staying at {address} during my trip.
+The property is located at {address}.
+Pick me up from {address}.
+We are moving to {address} next month.
+The bus will depart from {address} on {time}.
+My emergency contact address is {address}.
+My flight departs from {address} on {time}.
+Emergency contact address: {address}.
+Pick-up point: {address}.
+The parcel will go to {address}.
