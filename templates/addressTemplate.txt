@@ -16,3 +16,5 @@ My flight departs from {address} on {time}.
 Emergency contact address: {address}.
 Pick-up point: {address}.
 The parcel will go to {address}.
+Expect delivery at {address} by {date}
+Our office, situated at {address}, welcomes visitors.
