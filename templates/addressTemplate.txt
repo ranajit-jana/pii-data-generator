@@ -1,0 +1,3 @@
+I live at {address}
+Meet you at {address}
+I will be staying at {address}
