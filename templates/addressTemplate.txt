@@ -18,3 +18,23 @@ Pick-up point: {address}.
 The parcel will go to {address}.
 Expect delivery at {address} by {date}
 Our office, situated at {address}, welcomes visitors.
+Address: {address}
+Mailing Address: {address}
+Billing Address: {address}
+Permanent Address: {address}
+Address - {address}
+Mailing Address - {address}
+Billing Address - {address}
+Permanent Address - {address}
+address: {address}
+Mailing address: {address}
+Billing address: {address}
+Permanent address: {address}
+address: {address}
+mailing address: {address}
+billing address: {address}
+permanent address: {address}
+address {address}
+mailing address {address}
+billing address {address}
+permanent address {address}
