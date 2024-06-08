@@ -1,0 +1,5 @@
+It is a great way of working. The thought was first given by {name}. He used to stay as {address}.
+I have never seen {name} go to {address}, but he called {phone_number} and emailed {email} multiple times.
+Goverment official has named {name} as caretaker, He is given a office at {address}. His contact details are {phone_number} {email}
+{name} used his id {aadhar} for identifing himself
+Temples now will need id for letting people enter. {name} was carring his id with {aadhar}. but it seems that the id is not correct.

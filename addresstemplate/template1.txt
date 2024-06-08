@@ -4,19 +4,19 @@ I will be staying at {address}
 Our office is located at {address}
 Let's meet at {address} for coffee.
 The party will be at {address}
-I'll see you at {address} on {date}
-I have a doctor's appointment at {address} on {date}
+I'll see you at {address} on expected date
+I have a doctor's appointment at {address}
 I will be staying at {address} during my trip.
 The property is located at {address}.
 Pick me up from {address}.
 We are moving to {address} next month.
-The bus will depart from {address} on {time}.
+The bus will depart from {address} on time.
 My emergency contact address is {address}.
-My flight departs from {address} on {time}.
+My flight departs from {address} on time.
 Emergency contact address: {address}.
 Pick-up point: {address}.
 The parcel will go to {address}.
-Expect delivery at {address} by {date}
+Expect delivery at {address} on a date
 Our office, situated at {address}, welcomes visitors.
 Address: {address}
 Mailing Address: {address}
@@ -38,6 +38,7 @@ address {address}
 mailing address {address}
 billing address {address}
 permanent address {address}
+It is a great way of working. The thought was first given by {name}. He used to stay as {address}.
 Hi, my name is {name}, you can reach me at {phone_number}, and I live at {address}. I do have an email {email}, and my aadhar number is {aadhar}
 I'm {name}, my phone number is {phone_number} and my address is {address}
 You can contact me at {phone_number} My name is {name} and I live at {address}

@@ -1,0 +1,691 @@
+{
+    "annotations": [
+        [
+            "I live at 73/502, Chaudhry Ganj\nKarimnagar 991899",
+            {
+                "entities": [
+                    [
+                        10,
+                        49,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Meet you at H.No. 38\nDalal Chowk, Medininagar 547638",
+            {
+                "entities": [
+                    [
+                        12,
+                        52,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I will be staying at 844\nGrewal, Khora  466131",
+            {
+                "entities": [
+                    [
+                        21,
+                        46,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Our office is located at 82, Sani Path, Bhiwandi 516763",
+            {
+                "entities": [
+                    [
+                        25,
+                        55,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Let's meet at 61/412, Bali\nNavi Mumbai 919711 for coffee.",
+            {
+                "entities": [
+                    [
+                        14,
+                        45,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The party will be at 585\nBava Road, Berhampur-434548",
+            {
+                "entities": [
+                    [
+                        21,
+                        52,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I'll see you at 158, Joshi Circle, Rourkela-279419 on expected date",
+            {
+                "entities": [
+                    [
+                        16,
+                        50,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I have a doctor's appointment at H.No. 01, Chanda Zila\nOngole 046805",
+            {
+                "entities": [
+                    [
+                        33,
+                        68,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I will be staying at H.No. 96, Vora Chowk\nMalegaon 921328 during my trip.",
+            {
+                "entities": [
+                    [
+                        21,
+                        57,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The property is located at 39\nBalakrishnan\nSultan Pur Majra 055362.",
+            {
+                "entities": [
+                    [
+                        27,
+                        66,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Pick me up from 06/260\nWali Road\nMadanapalle-745285.",
+            {
+                "entities": [
+                    [
+                        16,
+                        51,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "We are moving to 36, Sinha Zila, Buxar 283079 next month.",
+            {
+                "entities": [
+                    [
+                        17,
+                        45,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The bus will depart from 91, Sathe Road, Raiganj 466914 on time.",
+            {
+                "entities": [
+                    [
+                        25,
+                        55,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "My emergency contact address is 28/559\nBali Nagar\nGuntur-495456.",
+            {
+                "entities": [
+                    [
+                        32,
+                        63,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "My flight departs from H.No. 446\nKari Path, Guwahati 292643 on time.",
+            {
+                "entities": [
+                    [
+                        23,
+                        59,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Emergency contact address: 26/34\nDada Nagar\nBelgaum-773612.",
+            {
+                "entities": [
+                    [
+                        27,
+                        58,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Pick-up point: 64, Kala Marg, Tiruchirappalli-476902.",
+            {
+                "entities": [
+                    [
+                        15,
+                        52,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The parcel will go to H.No. 75\nLala Circle\nBellary-436255.",
+            {
+                "entities": [
+                    [
+                        22,
+                        57,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Expect delivery at 639\nBasu Path\nKarawal Nagar-220294 on a date",
+            {
+                "entities": [
+                    [
+                        19,
+                        53,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Our office, situated at H.No. 52, Roy Circle\nMuzaffarnagar 075335, welcomes visitors.",
+            {
+                "entities": [
+                    [
+                        24,
+                        65,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Address: H.No. 07, Kuruvilla Path\nBidar 550680",
+            {
+                "entities": [
+                    [
+                        9,
+                        46,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Mailing Address: 90/841\nGopal Road\nErode 561288",
+            {
+                "entities": [
+                    [
+                        17,
+                        47,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Billing Address: H.No. 987\nTata Road\nNarasaraopet-866401",
+            {
+                "entities": [
+                    [
+                        17,
+                        56,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Permanent Address: 305, Goel Zila, Kottayam-643100",
+            {
+                "entities": [
+                    [
+                        19,
+                        50,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Address - 08/469, Kapur Circle, Durgapur-920442",
+            {
+                "entities": [
+                    [
+                        10,
+                        47,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Mailing Address - 47\nShan Path, Morena 919387",
+            {
+                "entities": [
+                    [
+                        18,
+                        45,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Billing Address - H.No. 373, Sarna Road, Baranagar-625376",
+            {
+                "entities": [
+                    [
+                        18,
+                        57,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Permanent Address - 09, Wali Marg, Dindigul 119888",
+            {
+                "entities": [
+                    [
+                        20,
+                        50,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "address: H.No. 885\nYadav Marg\nSultan Pur Majra 472603",
+            {
+                "entities": [
+                    [
+                        9,
+                        53,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Mailing address: H.No. 18\nBanerjee Zila\nAurangabad-588901",
+            {
+                "entities": [
+                    [
+                        17,
+                        57,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Billing address: 19, Golla Circle\nBettiah-207074",
+            {
+                "entities": [
+                    [
+                        17,
+                        48,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Permanent address: H.No. 195\nSarma Zila\nPatna 054315",
+            {
+                "entities": [
+                    [
+                        19,
+                        52,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "address: 61, Chaudhary\nPhagwara 701367",
+            {
+                "entities": [
+                    [
+                        9,
+                        38,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "mailing address: 64/137, Gopal Path\nVasai-Virar-939672",
+            {
+                "entities": [
+                    [
+                        17,
+                        54,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "billing address: 38/03\nKala Circle, Mathura 461094",
+            {
+                "entities": [
+                    [
+                        17,
+                        50,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "permanent address: 17/17, Wagle Circle\nKota-074891",
+            {
+                "entities": [
+                    [
+                        19,
+                        50,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "address 22/92, Dugar Circle\nMumbai 426093",
+            {
+                "entities": [
+                    [
+                        8,
+                        41,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "mailing address 681\nSampath Street, Davanagere-400694",
+            {
+                "entities": [
+                    [
+                        16,
+                        53,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "billing address H.No. 20\nBhandari Road, Jamnagar 561770",
+            {
+                "entities": [
+                    [
+                        16,
+                        55,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "permanent address 96\nSekhon Chowk, Mahbubnagar 978170",
+            {
+                "entities": [
+                    [
+                        18,
+                        53,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "It is a great way of working. The thought was first given by Kismat Kumer. He used to stay as 33, Sampath Zila, Darbhanga 178882.",
+            {
+                "entities": [
+                    [
+                        61,
+                        73,
+                        "PERSON"
+                    ],
+                    [
+                        94,
+                        128,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Hi, my name is Pihu Suresh, you can reach me at +910462768803, and I live at H.No. 98\nSule Marg\nThiruvananthapuram-185365. I do have an email bcomar@example.com, and my aadhar number is 161301203940",
+            {
+                "entities": [
+                    [
+                        15,
+                        26,
+                        "PERSON"
+                    ],
+                    [
+                        77,
+                        121,
+                        "ADDRESS"
+                    ],
+                    [
+                        48,
+                        61,
+                        "PHONE_NUMBER"
+                    ],
+                    [
+                        142,
+                        160,
+                        "EMAIL_ADDRESS"
+                    ],
+                    [
+                        186,
+                        198,
+                        "IN_AADHAAR"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I'm Jayant Kapur, my phone number is 00012442023 and my address is 524\nRamesh\nChandrapur-235542",
+            {
+                "entities": [
+                    [
+                        4,
+                        16,
+                        "PERSON"
+                    ],
+                    [
+                        67,
+                        95,
+                        "ADDRESS"
+                    ],
+                    [
+                        37,
+                        48,
+                        "PHONE_NUMBER"
+                    ]
+                ]
+            }
+        ],
+        [
+            "You can contact me at +918229239943 My name is Prisha Rege and I live at 67\nKulkarni Path, Kolkata-124088",
+            {
+                "entities": [
+                    [
+                        47,
+                        58,
+                        "PERSON"
+                    ],
+                    [
+                        73,
+                        105,
+                        "ADDRESS"
+                    ],
+                    [
+                        22,
+                        35,
+                        "PHONE_NUMBER"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I will be staying at 921, Shan\nHaridwar 043968 during vacation",
+            {
+                "entities": [
+                    [
+                        21,
+                        46,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Baiju Balan. The clear action plan provides a disciplined approach to achieving our financial goals. reach him at H.No. 561\nJohal Ganj, Gandhidham-170831 00393675332 johalshlok@example.net",
+            {
+                "entities": [
+                    [
+                        0,
+                        11,
+                        "PERSON"
+                    ],
+                    [
+                        114,
+                        153,
+                        "ADDRESS"
+                    ],
+                    [
+                        154,
+                        165,
+                        "PHONE_NUMBER"
+                    ],
+                    [
+                        166,
+                        188,
+                        "EMAIL_ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "16/616\nRandhawa Road, Proddatur-023700 is clear and simple to find. Get started on a financial planning journey.",
+            {
+                "entities": [
+                    [
+                        0,
+                        38,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Pre-emptive steps and better planning help meet peak power demand in April. contact 94/85\nKrish Zila, Bidar-234676 5872469685 rbava@example.org",
+            {
+                "entities": [
+                    [
+                        84,
+                        114,
+                        "ADDRESS"
+                    ],
+                    [
+                        115,
+                        125,
+                        "PHONE_NUMBER"
+                    ],
+                    [
+                        126,
+                        143,
+                        "EMAIL_ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Ugly Rasha Upadhyay did not give up 712, Iyer Nagar\nBarasat 164840",
+            {
+                "entities": [
+                    [
+                        5,
+                        19,
+                        "PERSON"
+                    ],
+                    [
+                        36,
+                        66,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "but enriched! The H.No. 462\nSridhar Ganj, Mirzapur 051785 won\u2019t simply take you to wiki pages that explain concepts by enlisting a wall of words.",
+            {
+                "entities": [
+                    [
+                        18,
+                        57,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Let's meet for coffee in the morning at 222\nIyer Ganj, Erode-976572.",
+            {
+                "entities": [
+                    [
+                        40,
+                        67,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ]
+    ]
+}

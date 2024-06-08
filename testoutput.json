@@ -1,0 +1,109 @@
+{
+    "annotations": [
+        [
+            "It is a great way of working. The thought was first given by Taimur Chada. He used to stay as 538\nDeo Ganj, Malda 440169.",
+            {
+                "entities": [
+                    [
+                        61,
+                        73,
+                        "PERSON"
+                    ],
+                    [
+                        94,
+                        120,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I have never seen Piya Bansal go to 12/37, Wagle Nagar, Durg 395709, but he called +916422186704 and emailed sethyashvi@example.com multiple times.",
+            {
+                "entities": [
+                    [
+                        18,
+                        29,
+                        "PERSON"
+                    ],
+                    [
+                        36,
+                        67,
+                        "ADDRESS"
+                    ],
+                    [
+                        83,
+                        96,
+                        "PHONE_NUMBER"
+                    ],
+                    [
+                        109,
+                        131,
+                        "EMAIL_ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Goverment official has named Arnav Som as caretaker, He is given a office at H.No. 190\nBobal Road\nPune 650482. His contact details are +917208061220 rjaggi@example.org",
+            {
+                "entities": [
+                    [
+                        29,
+                        38,
+                        "PERSON"
+                    ],
+                    [
+                        77,
+                        109,
+                        "ADDRESS"
+                    ],
+                    [
+                        135,
+                        148,
+                        "PHONE_NUMBER"
+                    ],
+                    [
+                        149,
+                        167,
+                        "EMAIL_ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Jivika Banik used his id 871129190142 for identifing himself",
+            {
+                "entities": [
+                    [
+                        0,
+                        12,
+                        "PERSON"
+                    ],
+                    [
+                        25,
+                        37,
+                        "IN_AADHAAR"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Temples now will need id for letting people enter. Dhruv Bansal was carring his id with 512476590324. but it seems that the id is not correct.",
+            {
+                "entities": [
+                    [
+                        51,
+                        63,
+                        "PERSON"
+                    ],
+                    [
+                        88,
+                        100,
+                        "IN_AADHAAR"
+                    ]
+                ]
+            }
+        ]
+    ]
+}

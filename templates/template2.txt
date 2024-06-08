@@ -1,1 +1,12 @@
 {name}, lead researcher on the project at {address}. It harnesses the power of renewable resources like solar and wind in a highly efficient and cost-effective manner, paving the way for a cleaner and greener future.
+The price of land at {address} has gone high as it is near to school.
+{name} will be running for election and he disclosed his contact as {address} {phone_number} {email}
+Parliament building is at {address}
+My aadhar card is {aadhar}
+Uidai number is {aadhar}
+Bank building is coming up at {address}
+police raided {address} and they did not find anything
+{name} was always living at {address}
+{address} was always unreachable for trucks
+iPhone is produced in factory {address}
+Delivery person will be visiting {address}

@@ -2,12 +2,38 @@ import json
 from faker import Faker
 import glob
 import os
+import random
+import re
 
 # Initialize Faker
-fake = Faker('en_IN')
+fake = Faker()
 
 # Define labels for named entities
-labels = ["PERSON", "ADDRESS", "PHONE_NUMBER", "EMAIL_ADDRESS", "IN_AADHAAR"]
+labels = ["PERSON", "ADDRESS", "PHONE", "EMAIL", "UID"]
+
+def generate_aadhar_number():
+    regex = "^[2-9]{1}[0-9]{3}\\s[0-9]{4}\\s[0-9]{4}$"
+    aadhar_number = ""
+    i = 0
+    while i < len(regex):
+        char = regex[i]
+        if char.isdigit():
+            aadhar_number += str(random.randint(0, 9))
+        elif char == "{":
+            start_index = i + 1
+            end_index = regex.index("}", start_index)
+            range_values = regex[start_index:end_index].split("-")
+            if len(range_values) == 2:
+                aadhar_number += str(random.randint(int(range_values[0]), int(range_values[1])))
+            else:
+                aadhar_number += range_values[0]
+            i = end_index + 1
+            continue
+        else:
+            aadhar_number += char
+        i += 1
+    return aadhar_number
+
 
 def generate_fake_data(passeddata):
     # Generate fake data
@@ -17,7 +43,7 @@ def generate_fake_data(passeddata):
     phone_number = str(phone_number_gen)
     email_gen = fake.email()
     email = str(email_gen)
-    aadhar_gen = fake.random_number(digits=12)
+    aadhar_gen = generate_aadhar_number()
     # Decode the bytes back to a string using UTF-8 decoding
     aadhar = str(aadhar_gen)
 
@@ -66,7 +92,7 @@ def main():
     data = {"annotations": []}
     file_path = "testoutput.json"  # Specify the file path
 
-    template_dir = 'testtemplates'
+    template_dir = 'templates'
 
     # Get a list of template files matching the pattern 'template*.txt'
     template_files = glob.glob(os.path.join(template_dir, 'template*.txt'))

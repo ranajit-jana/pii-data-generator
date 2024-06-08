@@ -1,0 +1,691 @@
+{
+    "annotations": [
+        [
+            "I live at 01699 Maureen Mountain Apt. 649\nSusanchester, AB A2R6E5",
+            {
+                "entities": [
+                    [
+                        10,
+                        65,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Meet you at 17980 Angela Isle Suite 844\nLake Heather, MB N4N4B6",
+            {
+                "entities": [
+                    [
+                        12,
+                        63,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I will be staying at 17220 Miller Fork Apt. 636\nCatherineview, NU A8G4V5",
+            {
+                "entities": [
+                    [
+                        21,
+                        72,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Our office is located at 404 Melissa Common Apt. 759\nPort Brenda, ON L9G 9X7",
+            {
+                "entities": [
+                    [
+                        25,
+                        76,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Let's meet at 5019 Arnold Circles\nChristinamouth, NT S8S 8M5 for coffee.",
+            {
+                "entities": [
+                    [
+                        14,
+                        60,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The party will be at 75581 Contreras Cove\nEast Mariahtown, NU A8T 5X9",
+            {
+                "entities": [
+                    [
+                        21,
+                        69,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I'll see you at 59862 Delgado Camp Suite 240\nNew Caseyside, NU G2E7E1 on expected date",
+            {
+                "entities": [
+                    [
+                        16,
+                        69,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I have a doctor's appointment at 1573 Gomez Crescent Suite 934\nPort Bryanmouth, MB H9Y5R4",
+            {
+                "entities": [
+                    [
+                        33,
+                        89,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I will be staying at 05984 Camacho Knolls Suite 182\nPeterfurt, PE R3A2S7 during my trip.",
+            {
+                "entities": [
+                    [
+                        21,
+                        72,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The property is located at 7050 Dawn Trafficway\nNorth Hannahburgh, ON E1X 2R2.",
+            {
+                "entities": [
+                    [
+                        27,
+                        77,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Pick me up from 852 Little Garden Apt. 443\nBoydburgh, ON X2R9V3.",
+            {
+                "entities": [
+                    [
+                        16,
+                        63,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "We are moving to 4592 Dylan Pass Suite 485\nNorth Susanville, ON M6L3V9 next month.",
+            {
+                "entities": [
+                    [
+                        17,
+                        70,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The bus will depart from 41931 Price Court\nJameschester, YT X9J9E8 on time.",
+            {
+                "entities": [
+                    [
+                        25,
+                        66,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "My emergency contact address is 155 Johnson Groves Suite 114\nNorth Timothymouth, AB G2M 3X6.",
+            {
+                "entities": [
+                    [
+                        32,
+                        91,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "My flight departs from 102 Smith Prairie Suite 225\nEast Brian, QC B1K7B6 on time.",
+            {
+                "entities": [
+                    [
+                        23,
+                        72,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Emergency contact address: 5085 Rivas Viaduct Suite 942\nScottfurt, AB V5G 8M1.",
+            {
+                "entities": [
+                    [
+                        27,
+                        77,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Pick-up point: 21929 Brian Courts\nWest Marisa, YT C5H 4P2.",
+            {
+                "entities": [
+                    [
+                        15,
+                        57,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The parcel will go to 898 William Drive\nSouth Brandi, NU S4R 2J5.",
+            {
+                "entities": [
+                    [
+                        22,
+                        64,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Expect delivery at 5258 Shawn Squares Suite 821\nHernandezview, ON V8C9E9 on a date",
+            {
+                "entities": [
+                    [
+                        19,
+                        72,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Our office, situated at 08390 Bruce Street Apt. 838\nMarkborough, NU J2Y2C8, welcomes visitors.",
+            {
+                "entities": [
+                    [
+                        24,
+                        74,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Address: 65074 Rebecca Views\nWest Jadechester, NT P6C5V2",
+            {
+                "entities": [
+                    [
+                        9,
+                        56,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Mailing Address: 0093 Harvey Cove Suite 178\nNorth Michelle, NL E8B 9C3",
+            {
+                "entities": [
+                    [
+                        17,
+                        70,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Billing Address: 876 Chelsea Prairie\nDiazborough, NS N2R 8A5",
+            {
+                "entities": [
+                    [
+                        17,
+                        60,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Permanent Address: 7795 Rachel Valley Apt. 165\nLandryland, ON P3Y2A4",
+            {
+                "entities": [
+                    [
+                        19,
+                        68,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Address - 370 William Hollow Apt. 639\nSamanthafort, QC T5K 4J5",
+            {
+                "entities": [
+                    [
+                        10,
+                        62,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Mailing Address - 25908 Jennifer Camp Apt. 499\nWest Kyleshire, NB K1G2T8",
+            {
+                "entities": [
+                    [
+                        18,
+                        72,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Billing Address - 269 Silva Vista\nSouth Jeffreyville, NU K2N 4H5",
+            {
+                "entities": [
+                    [
+                        18,
+                        64,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Permanent Address - 62247 Amanda Grove Apt. 855\nEast Evan, QC R3A9K1",
+            {
+                "entities": [
+                    [
+                        20,
+                        68,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "address: 198 Shawn Prairie Apt. 877\nAlexistown, QC C8C 3S5",
+            {
+                "entities": [
+                    [
+                        9,
+                        58,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Mailing address: 30500 Miller Locks Apt. 398\nSouth Jermaine, NT E5P 9N1",
+            {
+                "entities": [
+                    [
+                        17,
+                        71,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Billing address: 234 Golden Hills\nSouth Lori, BC N7C9A7",
+            {
+                "entities": [
+                    [
+                        17,
+                        55,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Permanent address: 360 Fisher Trafficway\nSanchezmouth, BC H1N1H6",
+            {
+                "entities": [
+                    [
+                        19,
+                        64,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "address: 621 Martinez Groves\nPort Robin, ON T4M4P2",
+            {
+                "entities": [
+                    [
+                        9,
+                        50,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "mailing address: 406 Jason Parkways Apt. 774\nJacobborough, NL S2E 9V6",
+            {
+                "entities": [
+                    [
+                        17,
+                        69,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "billing address: 80150 Duran Vista\nWest Anne, PE T8H9E6",
+            {
+                "entities": [
+                    [
+                        17,
+                        55,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "permanent address: 37612 Cook Keys Apt. 279\nLindaburgh, YT J5N5C6",
+            {
+                "entities": [
+                    [
+                        19,
+                        65,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "address 243 Mark Forks\nLake Kathleen, QC L2G7V4",
+            {
+                "entities": [
+                    [
+                        8,
+                        47,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "mailing address 9521 Barajas Place Apt. 955\nCastillostad, NB S1J 7A3",
+            {
+                "entities": [
+                    [
+                        16,
+                        68,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "billing address 783 Jesse Squares\nCourtneyville, ON R8V 7T1",
+            {
+                "entities": [
+                    [
+                        16,
+                        59,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "permanent address 8799 Clark Well Apt. 407\nSouth Seanfurt, PE X9P6C1",
+            {
+                "entities": [
+                    [
+                        18,
+                        68,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "It is a great way of working. The thought was first given by Marie Rogers. He used to stay as 4372 Jeffrey Village Suite 282\nChristophershire, YT A2X3Y2.",
+            {
+                "entities": [
+                    [
+                        61,
+                        73,
+                        "PERSON"
+                    ],
+                    [
+                        94,
+                        152,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Hi, my name is Ashley Bautista, you can reach me at +1 (317) 783-6844, and I live at 914 Kenneth Plains Apt. 101\nWest Melvin, NT T1S9A4. I do have an email derrick16@example.net, and my aadhar number is 540268165275",
+            {
+                "entities": [
+                    [
+                        15,
+                        30,
+                        "PERSON"
+                    ],
+                    [
+                        85,
+                        135,
+                        "ADDRESS"
+                    ],
+                    [
+                        52,
+                        69,
+                        "PHONE_NUMBER"
+                    ],
+                    [
+                        156,
+                        177,
+                        "EMAIL_ADDRESS"
+                    ],
+                    [
+                        203,
+                        215,
+                        "IN_AADHAAR"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I'm Alan Diaz, my phone number is 1-640-127-3046 and my address is 471 Johnson Parkways Suite 534\nLake Wendy, ON S5K6V8",
+            {
+                "entities": [
+                    [
+                        4,
+                        13,
+                        "PERSON"
+                    ],
+                    [
+                        67,
+                        119,
+                        "ADDRESS"
+                    ],
+                    [
+                        34,
+                        48,
+                        "PHONE_NUMBER"
+                    ]
+                ]
+            }
+        ],
+        [
+            "You can contact me at 254 018 7417 My name is Christopher Prince and I live at 928 William Common\nBakerchester, ON B5H 6J5",
+            {
+                "entities": [
+                    [
+                        46,
+                        64,
+                        "PERSON"
+                    ],
+                    [
+                        79,
+                        122,
+                        "ADDRESS"
+                    ],
+                    [
+                        22,
+                        34,
+                        "PHONE_NUMBER"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I will be staying at 6110 Elizabeth Manors Apt. 321\nMonicaborough, YT G8X 1G3 during vacation",
+            {
+                "entities": [
+                    [
+                        21,
+                        77,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Rebecca Jackson. The clear action plan provides a disciplined approach to achieving our financial goals. reach him at 4876 Sharp Walk\nNorth Cliffordburgh, AB S8C 9Y8 1-794-072-0955 michael65@example.org",
+            {
+                "entities": [
+                    [
+                        0,
+                        15,
+                        "PERSON"
+                    ],
+                    [
+                        118,
+                        165,
+                        "ADDRESS"
+                    ],
+                    [
+                        166,
+                        180,
+                        "PHONE_NUMBER"
+                    ],
+                    [
+                        181,
+                        202,
+                        "EMAIL_ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "032 Davis Gardens Apt. 585\nPrestonton, MB M8M2Y7 is clear and simple to find. Get started on a financial planning journey.",
+            {
+                "entities": [
+                    [
+                        0,
+                        48,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Pre-emptive steps and better planning help meet peak power demand in April. contact 8949 Murphy Plains\nTaylorfurt, AB E6P 8N3 (884) 598-0207 x037 choierin@example.com",
+            {
+                "entities": [
+                    [
+                        84,
+                        125,
+                        "ADDRESS"
+                    ],
+                    [
+                        126,
+                        145,
+                        "PHONE_NUMBER"
+                    ],
+                    [
+                        146,
+                        166,
+                        "EMAIL_ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Ugly Jennifer Delgado did not give up 416 Joseph Path Apt. 680\nSouth Elizabeth, ON E3A8C9",
+            {
+                "entities": [
+                    [
+                        5,
+                        21,
+                        "PERSON"
+                    ],
+                    [
+                        38,
+                        89,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "but enriched! The 6286 Vargas Cliffs Suite 792\nSouth Matthewburgh, PE J2M5V1 won\u2019t simply take you to wiki pages that explain concepts by enlisting a wall of words.",
+            {
+                "entities": [
+                    [
+                        18,
+                        76,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Let's meet for coffee in the morning at 1735 Joshua Springs Suite 251\nNew Max, SK C9K2V3.",
+            {
+                "entities": [
+                    [
+                        40,
+                        88,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ]
+    ]
+}

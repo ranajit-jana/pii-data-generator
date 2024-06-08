@@ -4,7 +4,18 @@ import glob
 import os
 
 # Initialize Faker
-fake = Faker('en_IN')
+# generated for en_IN
+# en_AU
+# en_CA 
+# en_GB
+# en_NZ
+# en_US
+# es_ES
+# es_MX
+# de_DE
+# dk_DK
+# el_GR
+fake = Faker('el_GR')
 
 # Define labels for named entities
 labels = ["PERSON", "ADDRESS", "PHONE_NUMBER", "EMAIL_ADDRESS", "IN_AADHAAR"]
@@ -64,9 +75,9 @@ def write_json_to_file(data, file_path):
 def main():
     num_records = 10  # Specify the number of records to generate
     data = {"annotations": []}
-    file_path = "testoutput.json"  # Specify the file path
+    file_path = "addressoutput_el_GR.json"  # Specify the file path
 
-    template_dir = 'testtemplates'
+    template_dir = 'addresstemplate'
 
     # Get a list of template files matching the pattern 'template*.txt'
     template_files = glob.glob(os.path.join(template_dir, 'template*.txt'))
@@ -81,13 +92,6 @@ def main():
                data["annotations"].append(json_data)
 
 
-
-
-
-    # text = "Name: {name}. Address: {address}. Phone: {phone_number}. Email: {email}. UID: {aadhar}"
-    # for _ in range(num_records):
-    #     # Generate JSON data
-    #     json_data = generate_fake_data(text)
             
     # Write JSON data to file
     write_json_to_file(data, file_path)
