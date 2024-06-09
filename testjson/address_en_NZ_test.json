@@ -1,0 +1,646 @@
+{
+    "annotations": [
+        [
+            "Our office, situated at 4 Berkahn Highway, RD 6, Manawarongopo 5056, welcomes visitors.",
+            {
+                "entities": [
+                    [
+                        24,
+                        67,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Address: 6 Richards Mews, RD 10, Tangimokowhare 7545",
+            {
+                "entities": [
+                    [
+                        9,
+                        52,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Mailing Address: 4 Wallis Street, Terewai 5264",
+            {
+                "entities": [
+                    [
+                        17,
+                        46,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Billing Address: 6 Williamson Esplanade, RD 7, Kawahoro 7867",
+            {
+                "entities": [
+                    [
+                        17,
+                        60,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I live at 381 Pickering Alleyway, Mokotangi 9777",
+            {
+                "entities": [
+                    [
+                        10,
+                        48,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Meet you at PO Box 4, Mayoburn 8813",
+            {
+                "entities": [
+                    [
+                        12,
+                        35,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Mailing Address - PO Box 9, Grantburgh 0878",
+            {
+                "entities": [
+                    [
+                        18,
+                        43,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Billing Address - 2 Motukawa Beach Road, Waiara 2217",
+            {
+                "entities": [
+                    [
+                        18,
+                        52,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Permanent Address - 93 Araiti Street, Tahitahihanga 9207",
+            {
+                "entities": [
+                    [
+                        20,
+                        56,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "address: PO Box 87, Aramanawatahi 8248",
+            {
+                "entities": [
+                    [
+                        9,
+                        38,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I'll see you at 77 Wells Ridge, Maungakoro 5277 on expected date",
+            {
+                "entities": [
+                    [
+                        16,
+                        47,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I have a doctor's appointment at Apt. 583, 30 Taylor-Chambers Way, Learmonthborough 8489",
+            {
+                "entities": [
+                    [
+                        33,
+                        88,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I will be staying at 95 Nathan Anchorage, Markville 8199 during my trip.",
+            {
+                "entities": [
+                    [
+                        21,
+                        56,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The property is located at 843 Prentice-Howard Crest, West Collismouth 6432.",
+            {
+                "entities": [
+                    [
+                        27,
+                        75,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Pick me up from PO Box 12, Healeyburgh 8624.",
+            {
+                "entities": [
+                    [
+                        16,
+                        43,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "We are moving to PO Box 47, Smithfort 9073 next month.",
+            {
+                "entities": [
+                    [
+                        17,
+                        42,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The bus will depart from Unit 75, 363 Kawatau Street, Lower Ryanburn 9811 on time.",
+            {
+                "entities": [
+                    [
+                        25,
+                        73,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "My emergency contact address is PO Box 67, Grayleigh 3190.",
+            {
+                "entities": [
+                    [
+                        32,
+                        57,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "My flight departs from 673 Bryant Avenue, Littleport 9068 on time.",
+            {
+                "entities": [
+                    [
+                        23,
+                        57,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Emergency contact address: 34 Wekamoturoa Crescent, Fisherland 8541.",
+            {
+                "entities": [
+                    [
+                        27,
+                        67,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "It is a great way of working. The thought was first given by Andrew Morrison-Guard. He used to stay as Apt. 656, 99 Davies Street, Tipuwai 6136.",
+            {
+                "entities": [
+                    [
+                        61,
+                        82,
+                        "PERSON"
+                    ],
+                    [
+                        103,
+                        143,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Hi, my name is Anika Weston, you can reach me at +64 27 6816327, and I live at 30 Kawawaimaunga Range Road, RD 4, Maungahope 6045. I do have an email alexander85@example.com, and my aadhar number is 237946830470",
+            {
+                "entities": [
+                    [
+                        15,
+                        27,
+                        "PERSON"
+                    ],
+                    [
+                        79,
+                        129,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I'm Lachlan Marshall, my phone number is 452 0811 and my address is PO Box 85, Hannahport 5101",
+            {
+                "entities": [
+                    [
+                        4,
+                        20,
+                        "PERSON"
+                    ],
+                    [
+                        68,
+                        94,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "You can contact me at 550 7059 My name is Rachel Harris and I live at 739 Dickson Cutting, Matthewston 7962",
+            {
+                "entities": [
+                    [
+                        42,
+                        55,
+                        "PERSON"
+                    ],
+                    [
+                        70,
+                        107,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I will be staying at 632 Holland Street, Ngaurutahitapu 6227 during vacation",
+            {
+                "entities": [
+                    [
+                        21,
+                        60,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Justin Perrin. The clear action plan provides a disciplined approach to achieving our financial goals. reach him at 32 Johnston Street, Rotorua 8655 +64-21-412-0716 davispatricia@example.com",
+            {
+                "entities": [
+                    [
+                        0,
+                        13,
+                        "PERSON"
+                    ],
+                    [
+                        116,
+                        148,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "9 Francis-Hoskins Terrace, RD 4, Andrewfort 8078 is clear and simple to find. Get started on a financial planning journey.",
+            {
+                "entities": [
+                    [
+                        0,
+                        48,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Pick-up point: 6 Maungarongotai Ridge, Fultonland 8244.",
+            {
+                "entities": [
+                    [
+                        15,
+                        54,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The parcel will go to 26 Wharemanawarongo Street, Hazelville 4571.",
+            {
+                "entities": [
+                    [
+                        22,
+                        65,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Expect delivery at PO Box 514, Newmangate 8929 on a date",
+            {
+                "entities": [
+                    [
+                        19,
+                        46,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Permanent Address: 3 Johnston Road, East Simpsonborough 8437",
+            {
+                "entities": [
+                    [
+                        19,
+                        60,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Address - 74 Watt Bypass, RD 8, Aramanawarangi 2251",
+            {
+                "entities": [
+                    [
+                        10,
+                        51,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Mailing address: 53 Wharewhenua Avenue, RD 7, Upper Drakeburn 2387",
+            {
+                "entities": [
+                    [
+                        17,
+                        66,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Billing address: 247 Mokoaratai Plaza, Morganfort 5141",
+            {
+                "entities": [
+                    [
+                        17,
+                        54,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Permanent address: PO Box 3, North Adamsport 5059",
+            {
+                "entities": [
+                    [
+                        19,
+                        49,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "address: 169 Patchett-Knowles Trail, Tairangi 4165",
+            {
+                "entities": [
+                    [
+                        9,
+                        50,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "mailing address: PO Box 5, Wakakoro 2528",
+            {
+                "entities": [
+                    [
+                        17,
+                        40,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "billing address: 7 Teretahi Street, Williamstown 5310",
+            {
+                "entities": [
+                    [
+                        17,
+                        53,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "permanent address: Flat 16, 905 Tipurangi Street, Pukemokoiti 3990",
+            {
+                "entities": [
+                    [
+                        19,
+                        66,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "address PO Box 269, Mount Higginsneath 5518",
+            {
+                "entities": [
+                    [
+                        8,
+                        43,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "mailing address PO Box 983, O'Neillbury 5198",
+            {
+                "entities": [
+                    [
+                        16,
+                        44,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "billing address 9 Terenui Range Road, Blakeland 2171",
+            {
+                "entities": [
+                    [
+                        16,
+                        52,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "permanent address PO Box 302, Fionastone 2683",
+            {
+                "entities": [
+                    [
+                        18,
+                        45,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Pre-emptive steps and better planning help meet peak power demand in April. contact Suite 425, 3 Papapamokoroa Track, Kowhaipapapa 5009 +64228107085 jasontanner@example.org",
+            {
+                "entities": [
+                    [
+                        84,
+                        135,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Ugly Kyle Ball did not give up 9 Patchett-Hogg Rise, Whakaroa 5551",
+            {
+                "entities": [
+                    [
+                        5,
+                        14,
+                        "PERSON"
+                    ],
+                    [
+                        31,
+                        66,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "but enriched! The 887 Rangimoko Street, Kawawaka 7658 won\u2019t simply take you to wiki pages that explain concepts by enlisting a wall of words.",
+            {
+                "entities": [
+                    [
+                        18,
+                        53,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Let's meet for coffee in the morning at 46 Gunn-Duncan Terrace, Potahinuku 2694.",
+            {
+                "entities": [
+                    [
+                        40,
+                        79,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I will be staying at PO Box 751, McEwen Flats 3173",
+            {
+                "entities": [
+                    [
+                        21,
+                        50,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Our office is located at 4 Angela Alleyway, RD 9, Charlotteing 2209",
+            {
+                "entities": [
+                    [
+                        25,
+                        67,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Let's meet at 112 Andrew Terrace, High Jamiesonburn 3104 for coffee.",
+            {
+                "entities": [
+                    [
+                        14,
+                        56,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The party will be at 94 Mokoroa Keys, Tipuhope 8697",
+            {
+                "entities": [
+                    [
+                        21,
+                        51,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ]
+    ]
+}

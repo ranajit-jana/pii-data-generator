@@ -1,0 +1,646 @@
+{
+    "annotations": [
+        [
+            "Our office, situated at 604 Glenn Park, Lake Kimberlyberg, MB T9B8M5, welcomes visitors.",
+            {
+                "entities": [
+                    [
+                        24,
+                        68,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Address: 134 Anderson Overpass, North Anna, AB G4B 5V8",
+            {
+                "entities": [
+                    [
+                        9,
+                        54,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Mailing Address: 627 Shawn Centers, West Heather, NS Y9V 7P6",
+            {
+                "entities": [
+                    [
+                        17,
+                        60,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Billing Address: 36779 Lindsay Mountain, Lake Lauren, ON Y4Y 3V8",
+            {
+                "entities": [
+                    [
+                        17,
+                        64,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I live at 679 Jennifer Rapids Suite 143, Troyport, PE N1N3M1",
+            {
+                "entities": [
+                    [
+                        10,
+                        60,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Meet you at 8264 Wilson Branch Apt. 932, Lake Audrey, AB X7T8V9",
+            {
+                "entities": [
+                    [
+                        12,
+                        63,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Mailing Address - 43851 Michael Port, North Lisaville, NT T4K 1A8",
+            {
+                "entities": [
+                    [
+                        18,
+                        65,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Billing Address - 0645 Grant Shore Apt. 768, Port Jasonbury, NS E3N 6S8",
+            {
+                "entities": [
+                    [
+                        18,
+                        71,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Permanent Address - 878 Moore Island, West Robert, SK K4J 8E1",
+            {
+                "entities": [
+                    [
+                        20,
+                        61,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "address: 87983 Knight Knolls, Lake Douglas, NT L8A1S6",
+            {
+                "entities": [
+                    [
+                        9,
+                        53,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I'll see you at 3740 Tracy Passage, Thompsonshire, MB R1R5L3 on expected date",
+            {
+                "entities": [
+                    [
+                        16,
+                        60,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I have a doctor's appointment at 183 Donna Grove Apt. 605, Pattersonhaven, NB S9V6L3",
+            {
+                "entities": [
+                    [
+                        33,
+                        84,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I will be staying at 293 Duran Crest, New Jacquelineshire, MB J3A 3G6 during my trip.",
+            {
+                "entities": [
+                    [
+                        21,
+                        69,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The property is located at 6161 Natasha Ranch Apt. 784, Brewerberg, NU V4R3S5.",
+            {
+                "entities": [
+                    [
+                        27,
+                        77,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Pick me up from 71712 Perry Loop Suite 325, Port Davidmouth, BC C9H 7L7.",
+            {
+                "entities": [
+                    [
+                        16,
+                        71,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "We are moving to 2952 Mark Divide, Dennisborough, ON H6A 1L5 next month.",
+            {
+                "entities": [
+                    [
+                        17,
+                        60,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The bus will depart from 27696 Joseph Burg Suite 266, East Danabury, QC A9M 9N2 on time.",
+            {
+                "entities": [
+                    [
+                        25,
+                        79,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "My emergency contact address is 1162 Hicks Stream Apt. 682, North Beth, YT G6Y5R7.",
+            {
+                "entities": [
+                    [
+                        32,
+                        81,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "My flight departs from 5767 Pearson Plain Suite 905, Hernandezchester, BC V4M 2J2 on time.",
+            {
+                "entities": [
+                    [
+                        23,
+                        81,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Emergency contact address: 12014 Jeffrey Centers Suite 784, Kurtshire, BC K8V8V5.",
+            {
+                "entities": [
+                    [
+                        27,
+                        80,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "It is a great way of working. The thought was first given by Alexis Allen. He used to stay as 3163 Stephanie Plain Suite 980, Guzmanfort, SK X7K 1P7.",
+            {
+                "entities": [
+                    [
+                        61,
+                        73,
+                        "PERSON"
+                    ],
+                    [
+                        94,
+                        148,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Hi, my name is Kimberly Chen, you can reach me at 630.605.1405, and I live at 106 White Course, Rogersstad, PE S7J 3N6. I do have an email mosseric@example.net, and my aadhar number is 841794144096",
+            {
+                "entities": [
+                    [
+                        15,
+                        28,
+                        "PERSON"
+                    ],
+                    [
+                        78,
+                        118,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I'm Michael Bryant, my phone number is (319) 506-1274 x928 and my address is 6989 Perez Meadows, Foleyville, NU T1H 8C3",
+            {
+                "entities": [
+                    [
+                        4,
+                        18,
+                        "PERSON"
+                    ],
+                    [
+                        77,
+                        119,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "You can contact me at 1-535-456-7603 My name is William Marshall and I live at 810 Sullivan Squares, Reneefort, MB P1J9V5",
+            {
+                "entities": [
+                    [
+                        48,
+                        64,
+                        "PERSON"
+                    ],
+                    [
+                        79,
+                        121,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I will be staying at 08741 Allison Gateway Suite 470, Ellisville, BC K2C 2M7 during vacation",
+            {
+                "entities": [
+                    [
+                        21,
+                        76,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Kayla Hardy. The clear action plan provides a disciplined approach to achieving our financial goals. reach him at 0961 Clarence Ports Apt. 586, Hendrixfurt, NL T8B 5L6 (784) 558-4817 x899 nadams@example.org",
+            {
+                "entities": [
+                    [
+                        0,
+                        11,
+                        "PERSON"
+                    ],
+                    [
+                        114,
+                        167,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "05530 Renee Lane, West Rogerside, NS V5Y6T2 is clear and simple to find. Get started on a financial planning journey.",
+            {
+                "entities": [
+                    [
+                        0,
+                        43,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Pick-up point: 8277 James Dale, Youngfurt, YT E8B 9R7.",
+            {
+                "entities": [
+                    [
+                        15,
+                        53,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The parcel will go to 4441 James Road, South Terrymouth, MB P1L 3E4.",
+            {
+                "entities": [
+                    [
+                        22,
+                        67,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Expect delivery at 814 Chelsea Circles, Davidhaven, ON K3X 6E1 on a date",
+            {
+                "entities": [
+                    [
+                        19,
+                        62,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Permanent Address: 56729 Stewart Keys Suite 532, New Lorraineshire, NT T3J 8J7",
+            {
+                "entities": [
+                    [
+                        19,
+                        78,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Address - 7412 Wong Brook, New Chadchester, QC G5G 7J8",
+            {
+                "entities": [
+                    [
+                        10,
+                        54,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Mailing address: 78548 Black Streets, Shelbytown, ON V1M3X4",
+            {
+                "entities": [
+                    [
+                        17,
+                        59,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Billing address: 44488 Vicki Flats Suite 150, West Barbara, PE G4L9V4",
+            {
+                "entities": [
+                    [
+                        17,
+                        69,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Permanent address: 6334 Alison Corners Apt. 549, Lake Susanville, MB Y7N4A7",
+            {
+                "entities": [
+                    [
+                        19,
+                        75,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "address: 2838 Henry Trail, South Jennifer, ON H5A 9X9",
+            {
+                "entities": [
+                    [
+                        9,
+                        53,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "mailing address: 42840 Owen Parks Apt. 021, Christophershire, AB E4E 4P5",
+            {
+                "entities": [
+                    [
+                        17,
+                        72,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "billing address: 38863 Stephenson Loaf Apt. 414, Sharpview, QC E6J 7A7",
+            {
+                "entities": [
+                    [
+                        17,
+                        70,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "permanent address: 783 Williams Vista, East Justin, SK G8E 8T4",
+            {
+                "entities": [
+                    [
+                        19,
+                        62,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "address 63743 Rice Summit, North Shelley, YT A6H8R5",
+            {
+                "entities": [
+                    [
+                        8,
+                        51,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "mailing address 374 Nunez Center Suite 473, Lake Alan, NL X7T1E2",
+            {
+                "entities": [
+                    [
+                        16,
+                        64,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "billing address 670 Michelle Walk Suite 947, Amandashire, NL L2C 7G3",
+            {
+                "entities": [
+                    [
+                        16,
+                        68,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "permanent address 800 Baker Flat Suite 859, Ryanview, NU A4L4M9",
+            {
+                "entities": [
+                    [
+                        18,
+                        63,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Pre-emptive steps and better planning help meet peak power demand in April. contact 556 Williams River, Mooreshire, NU M5P3M6 (459) 858-2322 williamscynthia@example.net",
+            {
+                "entities": [
+                    [
+                        84,
+                        125,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Ugly Donna Owen did not give up 141 Turner Mountain Apt. 773, North Kathleen, ON Y8K3N4",
+            {
+                "entities": [
+                    [
+                        5,
+                        15,
+                        "PERSON"
+                    ],
+                    [
+                        32,
+                        87,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "but enriched! The 65722 Flynn Mountain, Kevinfurt, NS B4C5X1 won\u2019t simply take you to wiki pages that explain concepts by enlisting a wall of words.",
+            {
+                "entities": [
+                    [
+                        18,
+                        60,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Let's meet for coffee in the morning at 33796 Galloway Drive Suite 435, Vargasfurt, PE N9B 9P9.",
+            {
+                "entities": [
+                    [
+                        40,
+                        94,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I will be staying at 0159 Tyrone Drive Apt. 158, North Scottstad, NU J6K2H3",
+            {
+                "entities": [
+                    [
+                        21,
+                        75,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Our office is located at 601 Sarah Cliff, Elizabethbury, NB R9E4A2",
+            {
+                "entities": [
+                    [
+                        25,
+                        66,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Let's meet at 4668 Dustin Lights Apt. 907, Port Katherineport, NT N7N 5L2 for coffee.",
+            {
+                "entities": [
+                    [
+                        14,
+                        73,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The party will be at 188 Howard Neck Suite 015, Port Alyssa, PE N4S 4M1",
+            {
+                "entities": [
+                    [
+                        21,
+                        71,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ]
+    ]
+}

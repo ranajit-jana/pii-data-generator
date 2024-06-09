@@ -1,0 +1,646 @@
+{
+    "annotations": [
+        [
+            "Our office, situated at Ca\u00f1ada de Juan Bautista Barrena 7 Puerta 2 , La Coru\u00f1a, 37133, welcomes visitors.",
+            {
+                "entities": [
+                    [
+                        24,
+                        85,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Address: Urbanizaci\u00f3n Melchor Iba\u00f1ez 38, Salamanca, 46509",
+            {
+                "entities": [
+                    [
+                        9,
+                        57,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Mailing Address: Rambla de Esther Artigas 473, Madrid, 16979",
+            {
+                "entities": [
+                    [
+                        17,
+                        60,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Billing Address: Glorieta de N\u00e9stor Mancebo 4 Apt. 17 , Toledo, 26634",
+            {
+                "entities": [
+                    [
+                        17,
+                        69,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I live at Pasadizo Alonso Peralta 18 Puerta 4 , Huesca, 38296",
+            {
+                "entities": [
+                    [
+                        10,
+                        61,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Meet you at Cuesta de Feliciano Samper 752, Almer\u00eda, 49464",
+            {
+                "entities": [
+                    [
+                        12,
+                        58,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Mailing Address - Vial Celestino Ferr\u00e1ndiz 69, Santa Cruz de Tenerife, 51456",
+            {
+                "entities": [
+                    [
+                        18,
+                        76,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Billing Address - Plaza de Cloe D\u00e1vila 902 Piso 7 , Madrid, 34446",
+            {
+                "entities": [
+                    [
+                        18,
+                        65,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Permanent Address - Urbanizaci\u00f3n de \u00c1frica Castrillo 61 Puerta 8 , Teruel, 36133",
+            {
+                "entities": [
+                    [
+                        20,
+                        80,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "address: Urbanizaci\u00f3n Ana Araujo 57 Apt. 14 , Valladolid, 02529",
+            {
+                "entities": [
+                    [
+                        9,
+                        63,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I'll see you at Acceso de Vidal Pujadas 96, Zaragoza, 30461 on expected date",
+            {
+                "entities": [
+                    [
+                        16,
+                        59,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I have a doctor's appointment at Cuesta El\u00edas Morata 8 Puerta 2 , Pontevedra, 06843",
+            {
+                "entities": [
+                    [
+                        33,
+                        83,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I will be staying at Vial Isa\u00edas Valero 2 Puerta 9 , Huelva, 43942 during my trip.",
+            {
+                "entities": [
+                    [
+                        21,
+                        66,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The property is located at Vial de Basilio Coll 711 Puerta 0 , La Coru\u00f1a, 16289.",
+            {
+                "entities": [
+                    [
+                        27,
+                        79,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Pick me up from Ca\u00f1ada Rosa Mar\u00eda Tejera 2, Cantabria, 06385.",
+            {
+                "entities": [
+                    [
+                        16,
+                        60,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "We are moving to Paseo de Pastor Trujillo 9, Ourense, 27913 next month.",
+            {
+                "entities": [
+                    [
+                        17,
+                        59,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The bus will depart from Avenida Otilia M\u00fa\u00f1iz 2 Puerta 9 , Guip\u00fazcoa, 19604 on time.",
+            {
+                "entities": [
+                    [
+                        25,
+                        75,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "My emergency contact address is C. Arcelia C\u00e1rdenas 541, M\u00e1laga, 07961.",
+            {
+                "entities": [
+                    [
+                        32,
+                        70,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "My flight departs from Avenida de Gil Rivas 27, M\u00e1laga, 04852 on time.",
+            {
+                "entities": [
+                    [
+                        23,
+                        61,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Emergency contact address: Via Mohamed Espejo 41, Almer\u00eda, 50209.",
+            {
+                "entities": [
+                    [
+                        27,
+                        64,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "It is a great way of working. The thought was first given by Fausto Amado Pombo Solera. He used to stay as Acceso Anastasio Santana 40 Piso 8 , Soria, 03726.",
+            {
+                "entities": [
+                    [
+                        61,
+                        86,
+                        "PERSON"
+                    ],
+                    [
+                        107,
+                        156,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Hi, my name is Marta Gimeno Amores, you can reach me at +34 882 43 32 37, and I live at Rambla de Angelina Olivares 62, Asturias, 45928. I do have an email nievesnoguera@example.org, and my aadhar number is 890114688368",
+            {
+                "entities": [
+                    [
+                        15,
+                        34,
+                        "PERSON"
+                    ],
+                    [
+                        88,
+                        135,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I'm Joaquina Corominas, my phone number is +34848 33 78 00 and my address is Camino de Andrea Corral 5 Apt. 22 , Almer\u00eda, 43899",
+            {
+                "entities": [
+                    [
+                        4,
+                        22,
+                        "PERSON"
+                    ],
+                    [
+                        77,
+                        127,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "You can contact me at +34803 107 024 My name is Agustina Querol Jara and I live at Plaza de Samanta Sanz 405 Piso 0 , M\u00e1laga, 19609",
+            {
+                "entities": [
+                    [
+                        48,
+                        68,
+                        "PERSON"
+                    ],
+                    [
+                        83,
+                        131,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I will be staying at Cuesta de Hayd\u00e9e Robles 25, Valencia, 29484 during vacation",
+            {
+                "entities": [
+                    [
+                        21,
+                        64,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Candelario Pintor. The clear action plan provides a disciplined approach to achieving our financial goals. reach him at Glorieta de Hilda Grande 458, Lleida, 33169 +34888344117 orozas@example.org",
+            {
+                "entities": [
+                    [
+                        0,
+                        17,
+                        "PERSON"
+                    ],
+                    [
+                        120,
+                        163,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Camino Cristian Prada 9 Piso 6 , La Rioja, 19229 is clear and simple to find. Get started on a financial planning journey.",
+            {
+                "entities": [
+                    [
+                        0,
+                        48,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Pick-up point: Calle de Te\u00f3fila Mateos 50 Apt. 01 , Zaragoza, 30872.",
+            {
+                "entities": [
+                    [
+                        15,
+                        67,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The parcel will go to Urbanizaci\u00f3n Gloria Prat 3 Puerta 8 , Almer\u00eda, 25913.",
+            {
+                "entities": [
+                    [
+                        22,
+                        74,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Expect delivery at Pasaje de Berto Gual 129, Girona, 03155 on a date",
+            {
+                "entities": [
+                    [
+                        19,
+                        58,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Permanent Address: Pasadizo de \u00c1frica Castell 25, Valladolid, 04953",
+            {
+                "entities": [
+                    [
+                        19,
+                        67,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Address - Paseo Manuel Calleja 74, Baleares, 33625",
+            {
+                "entities": [
+                    [
+                        10,
+                        50,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Mailing address: Ronda Mar\u00eda Luisa Campos 5, Santa Cruz de Tenerife, 49489",
+            {
+                "entities": [
+                    [
+                        17,
+                        74,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Billing address: Pasadizo de Dora Castillo 99 Apt. 91 , Alicante, 34615",
+            {
+                "entities": [
+                    [
+                        17,
+                        71,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Permanent address: Vial Alicia Fern\u00e1ndez 59, Soria, 10102",
+            {
+                "entities": [
+                    [
+                        19,
+                        57,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "address: C. de Juan Robles 41 Piso 0 , Castell\u00f3n, 22434",
+            {
+                "entities": [
+                    [
+                        9,
+                        55,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "mailing address: Camino Herminio Pomares 18 Puerta 5 , C\u00e1ceres, 16983",
+            {
+                "entities": [
+                    [
+                        17,
+                        69,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "billing address: Ca\u00f1ada Haroldo Castell 8 Apt. 49 , La Rioja, 31810",
+            {
+                "entities": [
+                    [
+                        17,
+                        67,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "permanent address: Pasaje Rufina Pla 98 Puerta 7 , Huelva, 32411",
+            {
+                "entities": [
+                    [
+                        19,
+                        64,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "address Ca\u00f1ada Consuelo Losa 12 Puerta 6 , Las Palmas, 07775",
+            {
+                "entities": [
+                    [
+                        8,
+                        60,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "mailing address Avenida Miguel \u00c1ngel Calder\u00f3n 6, C\u00f3rdoba, 07326",
+            {
+                "entities": [
+                    [
+                        16,
+                        63,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "billing address Cuesta de Cesar Torrent 8 Piso 0 , Tarragona, 43883",
+            {
+                "entities": [
+                    [
+                        16,
+                        67,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "permanent address Avenida Reyes Gasc\u00f3n 41 Puerta 2 , Salamanca, 51738",
+            {
+                "entities": [
+                    [
+                        18,
+                        69,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Pre-emptive steps and better planning help meet peak power demand in April. contact Paseo Visitaci\u00f3n Llabr\u00e9s 631, Melilla, 49375 +34848582230 fidela79@example.org",
+            {
+                "entities": [
+                    [
+                        84,
+                        128,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Ugly Diana Guardia Berrocal did not give up Vial Heriberto Cano 48, Lleida, 19460",
+            {
+                "entities": [
+                    [
+                        5,
+                        27,
+                        "PERSON"
+                    ],
+                    [
+                        44,
+                        81,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "but enriched! The Avenida Felipe Buend\u00eda 6, Cuenca, 36263 won\u2019t simply take you to wiki pages that explain concepts by enlisting a wall of words.",
+            {
+                "entities": [
+                    [
+                        18,
+                        57,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Let's meet for coffee in the morning at Cuesta de Artemio Ortu\u00f1o 2, Ourense, 50670.",
+            {
+                "entities": [
+                    [
+                        40,
+                        82,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I will be staying at Via Dan Calleja 61, Asturias, 06165",
+            {
+                "entities": [
+                    [
+                        21,
+                        56,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Our office is located at Paseo de Nereida Toledo 37 Piso 6 , Tarragona, 04901",
+            {
+                "entities": [
+                    [
+                        25,
+                        77,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Let's meet at C. Blanca Belda 25 Apt. 13 , \u00c1lava, 41831 for coffee.",
+            {
+                "entities": [
+                    [
+                        14,
+                        55,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The party will be at Via Sarita Infante 34 Puerta 7 , Zaragoza, 24444",
+            {
+                "entities": [
+                    [
+                        21,
+                        69,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ]
+    ]
+}

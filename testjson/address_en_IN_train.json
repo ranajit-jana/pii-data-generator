@@ -1,143 +1,47 @@
 {
     "annotations": [
         [
-            "I live at Hilmar-Eigenwillig-Gasse 7\n64670 Sta\u00dffurt",
+            "I live at 29/544, Sule Chowk, Avadi-395444",
             {
                 "entities": [
                     [
                         10,
-                        51,
+                        42,
                         "ADDRESS"
                     ]
                 ]
             }
         ],
         [
-            "Meet you at Ayten-Hofmann-Stra\u00dfe 32\n87880 Hansestadttralsund",
+            "Meet you at 92/23, Deep, Tinsukia 169557",
             {
                 "entities": [
                     [
                         12,
-                        60,
+                        40,
                         "ADDRESS"
                     ]
                 ]
             }
         ],
         [
-            "I will be staying at Rognergasse 57\n31323 Husum",
+            "I will be staying at 33/16, Chahal Chowk, Patiala 485595",
             {
                 "entities": [
                     [
                         21,
-                        47,
+                        56,
                         "ADDRESS"
                     ]
                 ]
             }
         ],
         [
-            "Our office is located at Hans Dieter-Wilms-Allee 4/0\n76949 Badibling",
+            "Our office is located at 504, Borra Marg, Hindupur-904598",
             {
                 "entities": [
                     [
                         25,
-                        68,
-                        "ADDRESS"
-                    ]
-                ]
-            }
-        ],
-        [
-            "Let's meet at Haeringstra\u00dfe 540\n21243 Osterode am Harz for coffee.",
-            {
-                "entities": [
-                    [
-                        14,
-                        54,
-                        "ADDRESS"
-                    ]
-                ]
-            }
-        ],
-        [
-            "The party will be at Kohlgasse 61\n49177 Cottbus",
-            {
-                "entities": [
-                    [
-                        21,
-                        47,
-                        "ADDRESS"
-                    ]
-                ]
-            }
-        ],
-        [
-            "I'll see you at Losekannring 0/9\n01827 L\u00fcbben on expected date",
-            {
-                "entities": [
-                    [
-                        16,
-                        45,
-                        "ADDRESS"
-                    ]
-                ]
-            }
-        ],
-        [
-            "I have a doctor's appointment at Schulzstr. 87\n38932 Niesky",
-            {
-                "entities": [
-                    [
-                        33,
-                        59,
-                        "ADDRESS"
-                    ]
-                ]
-            }
-        ],
-        [
-            "I will be staying at Swetlana-B\u00e4rer-Stra\u00dfe 48\n24572 Strasburg during my trip.",
-            {
-                "entities": [
-                    [
-                        21,
-                        61,
-                        "ADDRESS"
-                    ]
-                ]
-            }
-        ],
-        [
-            "The property is located at Wesackplatz 11\n95017 Gro\u00dfenhain.",
-            {
-                "entities": [
-                    [
-                        27,
-                        58,
-                        "ADDRESS"
-                    ]
-                ]
-            }
-        ],
-        [
-            "Pick me up from Hartmanngasse 2\n80272 Kleve.",
-            {
-                "entities": [
-                    [
-                        16,
-                        43,
-                        "ADDRESS"
-                    ]
-                ]
-            }
-        ],
-        [
-            "We are moving to Maria-Hartmann-Stra\u00dfe 92\n19124 Wertingen next month.",
-            {
-                "entities": [
-                    [
-                        17,
                         57,
                         "ADDRESS"
                     ]
@@ -145,35 +49,23 @@
             }
         ],
         [
-            "The bus will depart from H.-Dieter-W\u00e4hner-Ring 153\n17742 Oranienburg on time.",
+            "Let's meet at 17, Khosla Zila, Gulbarga 740469 for coffee.",
             {
                 "entities": [
                     [
-                        25,
-                        68,
+                        14,
+                        46,
                         "ADDRESS"
                     ]
                 ]
             }
         ],
         [
-            "My emergency contact address is Kruschwitzstr. 3/5\n54447 Kaiserslautern.",
+            "The party will be at 83, Kala Road, Bhind-464465",
             {
                 "entities": [
                     [
-                        32,
-                        71,
-                        "ADDRESS"
-                    ]
-                ]
-            }
-        ],
-        [
-            "My flight departs from Bl\u00fcmelstr. 68\n17784 Wesel on time.",
-            {
-                "entities": [
-                    [
-                        23,
+                        21,
                         48,
                         "ADDRESS"
                     ]
@@ -181,11 +73,11 @@
             }
         ],
         [
-            "Emergency contact address: Rohtplatz 2\n82114 Stendal.",
+            "I'll see you at 04/11, Doctor Circle, Sonipat-528652 on expected date",
             {
                 "entities": [
                     [
-                        27,
+                        16,
                         52,
                         "ADDRESS"
                     ]
@@ -193,91 +85,139 @@
             }
         ],
         [
-            "Pick-up point: Ortrun-Oestrovsky-Allee 0/8\n60620 G\u00fcnzburg.",
+            "I have a doctor's appointment at H.No. 713, Hayer Zila, Imphal 163651",
+            {
+                "entities": [
+                    [
+                        33,
+                        69,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I will be staying at H.No. 455, Golla, Kumbakonam-617004 during my trip.",
+            {
+                "entities": [
+                    [
+                        21,
+                        56,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The property is located at 176, Dada Marg, Ozhukarai-923543.",
+            {
+                "entities": [
+                    [
+                        27,
+                        59,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Pick me up from 61/330, Sastry Chowk, Kurnool-433414.",
+            {
+                "entities": [
+                    [
+                        16,
+                        52,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "We are moving to H.No. 464, Sarna Road, Ongole 568300 next month.",
+            {
+                "entities": [
+                    [
+                        17,
+                        53,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The bus will depart from H.No. 06, Sami Chowk, Khammam 947896 on time.",
+            {
+                "entities": [
+                    [
+                        25,
+                        61,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "My emergency contact address is 830, Sani Zila, Avadi 162155.",
+            {
+                "entities": [
+                    [
+                        32,
+                        60,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "My flight departs from 066, Kadakia Chowk, Thiruvananthapuram-161245 on time.",
+            {
+                "entities": [
+                    [
+                        23,
+                        68,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Emergency contact address: 24, Sekhon Nagar, Vijayanagaram 545941.",
+            {
+                "entities": [
+                    [
+                        27,
+                        65,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Pick-up point: 63, Sarna Street, Kakinada-291726.",
             {
                 "entities": [
                     [
                         15,
-                        57,
+                        48,
                         "ADDRESS"
                     ]
                 ]
             }
         ],
         [
-            "The parcel will go to R\u00f6rrichtgasse 59\n88377 Torgau.",
+            "The parcel will go to H.No. 744, Maharaj Marg, Bally-547968.",
             {
                 "entities": [
                     [
                         22,
-                        51,
+                        59,
                         "ADDRESS"
                     ]
                 ]
             }
         ],
         [
-            "Expect delivery at Bolandergasse 17\n74014 Backnang on a date",
-            {
-                "entities": [
-                    [
-                        19,
-                        50,
-                        "ADDRESS"
-                    ]
-                ]
-            }
-        ],
-        [
-            "Our office, situated at Emmerich-Berger-Gasse 083\n03961 Ludwigsburg, welcomes visitors.",
-            {
-                "entities": [
-                    [
-                        24,
-                        67,
-                        "ADDRESS"
-                    ]
-                ]
-            }
-        ],
-        [
-            "Address: Schlossergasse 162\n39019 M\u00fchlhausen",
-            {
-                "entities": [
-                    [
-                        9,
-                        44,
-                        "ADDRESS"
-                    ]
-                ]
-            }
-        ],
-        [
-            "Mailing Address: Kathrin-Seidel-Ring 84\n95265 Uffenheim",
-            {
-                "entities": [
-                    [
-                        17,
-                        55,
-                        "ADDRESS"
-                    ]
-                ]
-            }
-        ],
-        [
-            "Billing Address: Traudel-P\u00f6litz-Stra\u00dfe 1\n42647 Eberswalde",
-            {
-                "entities": [
-                    [
-                        17,
-                        57,
-                        "ADDRESS"
-                    ]
-                ]
-            }
-        ],
-        [
-            "Permanent Address: Ingetraud-Birnbaum-Stra\u00dfe 4\n34922 Waren",
+            "Expect delivery at H.No. 64, Sura Road, Navi Mumbai-542825 on a date",
             {
                 "entities": [
                     [
@@ -289,55 +229,19 @@
             }
         ],
         [
-            "Address - Fechnerplatz 83\n90226 Kitzingen",
+            "Our office, situated at H.No. 833, Sheth Path, Bhopal 909730, welcomes visitors.",
             {
                 "entities": [
                     [
-                        10,
-                        41,
+                        24,
+                        60,
                         "ADDRESS"
                     ]
                 ]
             }
         ],
         [
-            "Mailing Address - Heinz-Wilhelm-Gei\u00dfler-Ring 058\n66682 Pritzwalk",
-            {
-                "entities": [
-                    [
-                        18,
-                        64,
-                        "ADDRESS"
-                    ]
-                ]
-            }
-        ],
-        [
-            "Billing Address - Karl-Wilhelm-Tlustek-Ring 3/9\n17642 Beeskow",
-            {
-                "entities": [
-                    [
-                        18,
-                        61,
-                        "ADDRESS"
-                    ]
-                ]
-            }
-        ],
-        [
-            "Permanent Address - Augusta-Kostolzin-Gasse 5/5\n47195 Hersbruck",
-            {
-                "entities": [
-                    [
-                        20,
-                        63,
-                        "ADDRESS"
-                    ]
-                ]
-            }
-        ],
-        [
-            "address: Hessering 468\n77361 Schwabm\u00fcnchen",
+            "Address: 10/225, Sastry Road, Sirsa 327590",
             {
                 "entities": [
                     [
@@ -349,79 +253,127 @@
             }
         ],
         [
-            "Mailing address: Thea-Gehringer-Ring 3/5\n19679 Hainichen",
+            "Mailing Address: 58/615, Thakkar Nagar, Tenali 718749",
             {
                 "entities": [
                     [
                         17,
-                        56,
+                        53,
                         "ADDRESS"
                     ]
                 ]
             }
         ],
         [
-            "Billing address: Kadestra\u00dfe 6/2\n03414 Ludwigslust",
+            "Billing Address: 40, Gill, Bulandshahr-751707",
             {
                 "entities": [
                     [
                         17,
-                        49,
+                        45,
                         "ADDRESS"
                     ]
                 ]
             }
         ],
         [
-            "Permanent address: Hans D.-Henck-Platz 461\n48458 Bernburg",
+            "Permanent Address: 73/921, Sawhney Marg, Bally-958191",
             {
                 "entities": [
                     [
                         19,
-                        57,
+                        53,
                         "ADDRESS"
                     ]
                 ]
             }
         ],
         [
-            "address: Hahnring 4\n98995 Wurzen",
+            "Address - H.No. 41, Gandhi Road, Tumkur-550650",
+            {
+                "entities": [
+                    [
+                        10,
+                        46,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Mailing Address - 01/906, Wable Road, Kulti 854933",
+            {
+                "entities": [
+                    [
+                        18,
+                        50,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Billing Address - 77/496, Tiwari Nagar, Mau-127948",
+            {
+                "entities": [
+                    [
+                        18,
+                        50,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Permanent Address - H.No. 32, Srivastava Street, Sambhal 062145",
+            {
+                "entities": [
+                    [
+                        20,
+                        63,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "address: 04/41, Tandon Street, Silchar 855380",
             {
                 "entities": [
                     [
                         9,
-                        32,
+                        45,
                         "ADDRESS"
                     ]
                 ]
             }
         ],
         [
-            "mailing address: Genoveva-Aumann-Stra\u00dfe 0\n25056 Grevesm\u00fchlen",
+            "Mailing address: H.No. 08, Walia Street, Panipat-687213",
             {
                 "entities": [
                     [
                         17,
-                        60,
+                        55,
                         "ADDRESS"
                     ]
                 ]
             }
         ],
         [
-            "billing address: M\u00fchleplatz 2\n77910 Neustadt am R\u00fcbenberge",
+            "Billing address: H.No. 070, Soman Zila, Ujjain-517316",
             {
                 "entities": [
                     [
                         17,
-                        58,
+                        53,
                         "ADDRESS"
                     ]
                 ]
             }
         ],
         [
-            "permanent address: Jochem-Neusch\u00e4fer-Gasse 437\n65241 L\u00fcbben",
+            "Permanent address: H.No. 39, Solanki Road, Amaravati-040695",
             {
                 "entities": [
                     [
@@ -433,47 +385,11 @@
             }
         ],
         [
-            "address Fred-Rogner-Platz 6/1\n12203 Rehau",
+            "address: 73/986, Bhardwaj Road, Sambhal 885327",
             {
                 "entities": [
                     [
-                        8,
-                        41,
-                        "ADDRESS"
-                    ]
-                ]
-            }
-        ],
-        [
-            "mailing address Metzgasse 3/5\n61964 Hannoversch M\u00fcnden",
-            {
-                "entities": [
-                    [
-                        16,
-                        54,
-                        "ADDRESS"
-                    ]
-                ]
-            }
-        ],
-        [
-            "billing address Rudolphring 0/2\n44512 F\u00fcrstenfeldbruck",
-            {
-                "entities": [
-                    [
-                        16,
-                        54,
-                        "ADDRESS"
-                    ]
-                ]
-            }
-        ],
-        [
-            "permanent address Ehlertgasse 9\n35031 Querfurt",
-            {
-                "entities": [
-                    [
-                        18,
+                        9,
                         46,
                         "ADDRESS"
                     ]
@@ -481,56 +397,125 @@
             }
         ],
         [
-            "It is a great way of working. The thought was first given by Inka Loos B.Sc.. He used to stay as Walli-Stahr-Stra\u00dfe 142\n73141 T\u00fcbingen.",
+            "mailing address: H.No. 138, Gokhale Marg, Dindigul 809719",
+            {
+                "entities": [
+                    [
+                        17,
+                        57,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "billing address: 683, Sama, Ujjain 558391",
+            {
+                "entities": [
+                    [
+                        17,
+                        41,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "permanent address: H.No. 01, Ramesh Zila, Fatehpur 792220",
+            {
+                "entities": [
+                    [
+                        19,
+                        57,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "address H.No. 25, Aurora Road, Jammu-249303",
+            {
+                "entities": [
+                    [
+                        8,
+                        43,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "mailing address 35, Venkatesh Path, Nashik 125229",
+            {
+                "entities": [
+                    [
+                        16,
+                        49,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "billing address H.No. 749, Gade Street, Ambattur 019383",
+            {
+                "entities": [
+                    [
+                        16,
+                        55,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "permanent address H.No. 062, Babu Marg, Hajipur-395327",
+            {
+                "entities": [
+                    [
+                        18,
+                        54,
+                        "ADDRESS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "It is a great way of working. The thought was first given by Aradhya Kumer. He used to stay as 66/90, Karpe Street, Allahabad 012821.",
             {
                 "entities": [
                     [
                         61,
-                        76,
+                        74,
                         "PERSON"
                     ],
                     [
-                        97,
-                        134,
+                        95,
+                        132,
                         "ADDRESS"
                     ]
                 ]
             }
         ],
         [
-            "Hi, my name is Birgitt Bender B.Eng., you can reach me at +49(0)6784434262, and I live at Caroline-Kramer-Ring 2\n49258 Ahaus. I do have an email ludmillamitschke@example.net, and my aadhar number is 354769104731",
+            "Hi, my name is Eshani Contractor, you can reach me at 6334042633, and I live at H.No. 181, Dara Path, Vasai-Virar-593777. I do have an email prisha26@example.org, and my aadhar number is 221672237699",
             {
                 "entities": [
                     [
                         15,
-                        36,
+                        32,
                         "PERSON"
                     ],
                     [
-                        90,
-                        124,
+                        80,
+                        120,
                         "ADDRESS"
-                    ],
-                    [
-                        58,
-                        74,
-                        "PHONE_NUMBER"
-                    ],
-                    [
-                        145,
-                        173,
-                        "EMAIL_ADDRESS"
-                    ],
-                    [
-                        199,
-                        211,
-                        "IN_AADHAAR"
                     ]
                 ]
             }
         ],
         [
-            "I'm Jonas Loos, my phone number is 01488 578738 and my address is Jacqueline-Hesse-Gasse 6\n92743 Eisenh\u00fcttenstadt",
+            "I'm Divij Rama, my phone number is 8767980757 and my address is 15/867, Zachariah Nagar, Etawah 932816",
             {
                 "entities": [
                     [
@@ -539,149 +524,119 @@
                         "PERSON"
                     ],
                     [
-                        66,
-                        113,
+                        64,
+                        102,
                         "ADDRESS"
-                    ],
-                    [
-                        35,
-                        47,
-                        "PHONE_NUMBER"
                     ]
                 ]
             }
         ],
         [
-            "You can contact me at +49(0)0154 73498 My name is Hartmut Patberg-H\u00f6rle and I live at Marietta-Gei\u00dfler-Weg 3/4\n04046 Sankt Goar",
+            "You can contact me at +917906378857 My name is Mehul Bhasin and I live at H.No. 77, Borah Zila, Munger 899615",
             {
                 "entities": [
                     [
-                        50,
-                        71,
+                        47,
+                        59,
                         "PERSON"
                     ],
                     [
-                        86,
-                        127,
+                        74,
+                        109,
                         "ADDRESS"
-                    ],
-                    [
-                        22,
-                        38,
-                        "PHONE_NUMBER"
                     ]
                 ]
             }
         ],
         [
-            "I will be staying at Josef-Hermann-Weg 61\n18725 Neuss during vacation",
+            "I will be staying at 387, Chaudhary Circle, Agra-018305 during vacation",
             {
                 "entities": [
                     [
                         21,
-                        53,
+                        55,
                         "ADDRESS"
                     ]
                 ]
             }
         ],
         [
-            "Dr. Eggert Weller. The clear action plan provides a disciplined approach to achieving our financial goals. reach him at Freddy-Henk-Gasse 049\n05958 Bersenbr\u00fcck +49(0)5100592941 econradi@example.org",
+            "Tushar Datta. The clear action plan provides a disciplined approach to achieving our financial goals. reach him at 90, Devi Ganj, Avadi 462847 +917604358196 eshanker@example.org",
             {
                 "entities": [
                     [
                         0,
-                        17,
+                        12,
                         "PERSON"
                     ],
                     [
-                        120,
-                        159,
+                        115,
+                        142,
                         "ADDRESS"
-                    ],
-                    [
-                        160,
-                        176,
-                        "PHONE_NUMBER"
-                    ],
-                    [
-                        177,
-                        197,
-                        "EMAIL_ADDRESS"
                     ]
                 ]
             }
         ],
         [
-            "Burkhardt-Junck-Allee 935\n34708 Dieburg is clear and simple to find. Get started on a financial planning journey.",
+            "422, Sama Road, Malegaon 511886 is clear and simple to find. Get started on a financial planning journey.",
             {
                 "entities": [
                     [
                         0,
-                        39,
+                        31,
                         "ADDRESS"
                     ]
                 ]
             }
         ],
         [
-            "Pre-emptive steps and better planning help meet peak power demand in April. contact Ladeckring 42\n43825 Hainichen 07536 983634 fhering@example.org",
+            "Pre-emptive steps and better planning help meet peak power demand in April. contact 331, Sinha Circle, Nashik 452399 09268510876 aarushcheema@example.org",
             {
                 "entities": [
                     [
                         84,
-                        113,
+                        116,
                         "ADDRESS"
-                    ],
-                    [
-                        114,
-                        126,
-                        "PHONE_NUMBER"
-                    ],
-                    [
-                        127,
-                        146,
-                        "EMAIL_ADDRESS"
                     ]
                 ]
             }
         ],
         [
-            "Ugly Ljudmila Lindner MBA. did not give up Loosweg 033\n89861 Wolfenb\u00fcttel",
+            "Ugly Hrishita Rattan did not give up 34/787, Sodhi Nagar, Jodhpur-744927",
             {
                 "entities": [
                     [
                         5,
-                        26,
+                        20,
                         "PERSON"
                     ],
                     [
-                        43,
-                        73,
+                        37,
+                        72,
                         "ADDRESS"
                     ]
                 ]
             }
         ],
         [
-            "but enriched! The Fiebigallee 700\n10536 Grafenau won\u2019t simply take you to wiki pages that explain concepts by enlisting a wall of words.",
+            "but enriched! The 60/274, Andra Ganj, Udupi 403756 won\u2019t simply take you to wiki pages that explain concepts by enlisting a wall of words.",
             {
                 "entities": [
                     [
                         18,
-                        48,
+                        50,
                         "ADDRESS"
                     ]
                 ]
             }
         ],
         [
-            "Let's meet for coffee in the morning at L\u00f6chelgasse 2\n08054 Ahaus.",
+            "Let's meet for coffee in the morning at 38/250, Thaman, Chandigarh-669791.",
             {
                 "entities": [
                     [
                         40,
-                        65,
+                        73,
                         "ADDRESS"
                     ]
                 ]
